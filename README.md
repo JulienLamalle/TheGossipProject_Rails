@@ -79,7 +79,7 @@ Seeding Gossip Multiversity :  All arrays Chuck Norris declares are of infinite 
 ```
 
 
-10 examples of creating a link between a gossip and a tag in our database :
+15 examples of creating a link between a gossip and a tag in our database :
 
 ```
 Seeding Gossip 27 to Tag 16
